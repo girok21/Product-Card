@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.ProductCard{
+    display: block;
+    max-width: 350px;
+
+}
+.ProductImage{
+    padding-bottom: 0;
+}
+
+.ProductInfo{
+    background-color: white;
+    /* display: inline; */
+}
+img{
+    max-width: 100%;
+}
